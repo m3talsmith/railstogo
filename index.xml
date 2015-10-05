@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rails to Go</title>
-    <link>http://m3talsmith.nl/railstogo/</link>
+    <link>http://railstogo.m3talsmith.nl/</link>
     <description>Recent content on Rails to Go</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://m3talsmith.nl/railstogo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://railstogo.m3talsmith.nl/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
